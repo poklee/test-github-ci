@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.example.poklee</groupId>
 	<artifactId>github-ci</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>github-ci</name>
 	<dependencies>
 		<dependency>
